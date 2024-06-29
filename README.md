@@ -6,7 +6,7 @@ This project is a group chat application built using Java Swing, aimed at provid
 -Real-time Messaging: Instant messaging within chat rooms.
 -User Management: Add, remove, and manage users within chat rooms.
 
-#-## Goals
+### Goals
 The main goals of this project are:
 
 -To create a reliable and efficient group chat application.
